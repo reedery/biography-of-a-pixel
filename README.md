@@ -1,10 +1,11 @@
-# 🎈 Blank app template
+# Biography of a Pixel
 
-A simple Streamlit app template for you to modify!
+Taking examples from Arvy Ray Smith's [<i>A Biography of a Pixel</i>](https://www.alvyray.com/DigitalLight/) and displaying them in an interactive data frame. 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Run latest WIP in Streamlit: [pixel.streamlit.app](https://pixels.streamlit.app)
 
-### How to run it on your own machine
+
+### Dev: How to run it on your own machine
 
 1. Install the requirements
 
