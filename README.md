@@ -1,9 +1,8 @@
 # Biography of a Pixel
 
-Taking examples from Arvy Ray Smith's [<i>A Biography of a Pixel</i>](https://www.alvyray.com/DigitalLight/) and displaying them in an interactive data frame. 
+Taking examples from Arvy Ray Smith's [<i>A Biography of a Pixel</i>](https://www.alvyray.com/DigitalLight/) and displaying them in an interactive data frame.
 
 Run latest WIP in Streamlit: [pixel.streamlit.app](https://pixels.streamlit.app)
-
 
 ### Dev: How to run it on your own machine
 
@@ -17,4 +16,10 @@ Run latest WIP in Streamlit: [pixel.streamlit.app](https://pixels.streamlit.app)
 
    ```
    $ streamlit run streamlit_app.py
+   ```
+
+   With hot reload
+
+   ```
+   streamlit run streamlit_app.py --server.runOnSave true
    ```
